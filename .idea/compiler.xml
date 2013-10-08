@@ -25,6 +25,9 @@
         <module name="WebSite" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="WebSite" target="1.6" />
+    </bytecodeTargetLevel>
   </component>
 </project>
 

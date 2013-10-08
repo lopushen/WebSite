@@ -10,6 +10,9 @@
     <option name="pathToConfigFileJava" value="$USER_HOME$/Documents/iris_eclipse_formatting.xml" />
     <option name="selectedJavaProfile" value="Iris coding conventions" />
   </component>
+  <component name="EntryPointsManager">
+    <entry_points version="2.0" />
+  </component>
   <component name="IdProvider" IDEtalkID="772B779DA617EA6BCB7B722C8A117A0A" />
   <component name="MavenProjectsManager">
     <option name="originalFiles">
